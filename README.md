@@ -5,5 +5,5 @@ Usage: bin-crc-cli <filename> <size>
   
 ## Params  
 
-<b>filename<b>: source binary filename <\cr>
+<b>filename<b>: source binary filename </cr>
 <b>size<b>: require size of destination file must be graather the
