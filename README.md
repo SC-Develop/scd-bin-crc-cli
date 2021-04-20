@@ -11,4 +11,4 @@ If the destination size exceed the size of the original file, empty space at the
 
 This is useful to add a CRC16 to a firmware binary file.
 
-Output file wil be renamed as <b>\<filename\>-bin.crc<\b>
+Output file wil be renamed as <b>\<filename\>-bin.crc</b>
