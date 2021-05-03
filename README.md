@@ -1,7 +1,7 @@
 # scd-bin-crc-cli (Qt C++)
 Append CRC16 (16 bit CRC) to a bin file and set the file to the required size
 
-Usage: bin-crc-cli \<filename\> \<size\>
+Usage: <b>bin-crc-cli \<filename\> \<size\></b>
   
 ### Params  
 
