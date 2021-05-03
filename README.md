@@ -3,7 +3,7 @@ Append CRC16 (16 bit CRC) to a bin file and set the file to the required size
 
 Usage: bin-crc-cli \<filename\> \<size\>
   
-## Params  
+### Params  
 
 <b>\<filename\></b>: source binary filename <br>
 <b>\<size\></b>: require size of destination file (crc included). <br><br>
